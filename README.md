@@ -17,6 +17,6 @@
       - 👩🏻‍💻 Self-taught Front End developer
       - 🛠 ReactJs (Hooks), ES6, PWA, JavaScript, Bootstrap, CSS, HTML
       - 🌱 I’m currently learning TypeScript and NodeJs 
-      - 🤔 Interested in UI/UX. I really enjoy the creative side of web-development
+      - 🤔 Interested in UI/UX, I really enjoy the creative side of web-development
       - 📫 How to reach me: rebeca.cazacu@gmail.com
       
