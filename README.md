@@ -10,16 +10,11 @@
   Slowly but surely, I built up my first [Portfolio](https://rebeca-august.github.io/portfolio/) and I started to call myself a web-developer.  🥳 
  
  Now, one year later I have one main goal 👉 to make a career out of my passion. 🧡
-  
-   
-   #### This is my long story short. I would love to hear/read yours. 📝
-
+ 
 
   #### Rebeca in a nutshell:
   
-      - 🔭 I’m currently looking for a full-time job as a web developer 
+      - 🛠 My currently set of skills consist of: ReactJs (Hooks), ES6, PWA, JavaScript, Bootstrap, CSS, HTML
       - 🌱 I’m currently learning TypeScript and NodeJs 
-      - 🤔 I’m looking for help with finding new work opportunities 
-      - 💬 Ask me about my experience as a self-taught developer
       - 📫 How to reach me: rebeca.cazacu@gmail.com
       - ⚡ Fun fact: I'm fascinated by candles, I can watch a lit candle for hours 🔥
