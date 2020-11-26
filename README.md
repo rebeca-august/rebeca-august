@@ -14,7 +14,9 @@
 
   #### Rebeca in a nutshell:
   
+      - 👩🏻‍💻 Self-taught developer
       - 🛠 ReactJs (Hooks), ES6, PWA, JavaScript, Bootstrap, CSS, HTML
       - 🌱 I’m currently learning TypeScript and NodeJs 
+      - 🤔 Interested in UI/UX. I really enjoy the creative side of web-development
       - 📫 How to reach me: rebeca.cazacu@gmail.com
       - ⚡ Fun fact: I'm fascinated by candles, I can watch a lit candle for hours 🔥
