@@ -10,11 +10,17 @@
   
   Slowly but surely I built up my first [portfolio](https://rebeca-august.github.io/portfolio/) and I started to call myself a web-developer.  🥳 
   
-  Now, one year later I have one main goal and that is to make a career out of my passion.
+  Now, one year later I have one main goal 👉 to make a career out of my passion. 🧡
   
    
    #### This is my long story short. I would love to hear/read yours. 📝
 
+ #### - 🔭 I’m currently looking for a full-time job as a web developer 🤞
+      - 🌱 I’m currently learning TypeScript and NodeJs 
+      - 🤔 I’m looking for help with finding new work opportunities 
+      - 💬 Ask me about my experience as a self-taught developer
+      - 📫 How to reach me: rebeca.cazacu@gmail.com
+      - ⚡ Fun fact: I'm fascinated by candles, I can watch a lit candle for hours 🕯
 
       - 🔭 I’m currently looking for a full-time job as a web developer 🤞
       - 🌱 I’m currently learning TypeScript and NodeJs 
