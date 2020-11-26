@@ -14,7 +14,7 @@
 
   #### Rebeca in a nutshell:
   
-      - 🛠 My currently set of skills consist of: ReactJs (Hooks), ES6, PWA, JavaScript, Bootstrap, CSS, HTML
+      - 🛠 ReactJs (Hooks), ES6, PWA, JavaScript, Bootstrap, CSS, HTML
       - 🌱 I’m currently learning TypeScript and NodeJs 
       - 📫 How to reach me: rebeca.cazacu@gmail.com
       - ⚡ Fun fact: I'm fascinated by candles, I can watch a lit candle for hours 🔥
