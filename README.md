@@ -7,8 +7,9 @@
   Once I moved to London I wanted to explore something new, exciting, and challenging. 
   I got myself into programming, learning the basics on [SoloLearn](https://www.sololearn.com/) and [FreeCodeCamp](https://www.freecodecamp.org/learn).
   
-  Slowly but surely I built up my first [Portfolio](https://rebeca-august.github.io/portfolio/) and I started to call myself a web-developer.  🥳 
-  Now, one year later I have one main goal 👉 to make a career out of my passion. 🧡
+  Slowly but surely, I built up my first [Portfolio](https://rebeca-august.github.io/portfolio/) and I started to call myself a web-developer.  🥳 
+ 
+ Now, one year later I have one main goal 👉 to make a career out of my passion. 🧡
   
    
    #### This is my long story short. I would love to hear/read yours. 📝
