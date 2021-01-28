@@ -20,7 +20,7 @@
 
 ### Story time 🍿
 
-  I'm **Rebeca** and I moved to London last year from Copenhagen, where I got my Bachelor's Degree in Innovation and Entrepreneurship and worked as a market researcher.
+  I'm **Rebeca** and I moved to London last year from Copenhagen, where I got my Bachelor's Degree in Innovation and Entrepreneurship and I worked as a market researcher.
   
   Once I moved to London I wanted to explore something new, exciting, and challenging. 
   I got myself into programming, learning the basics on [SoloLearn](https://www.sololearn.com/) and [FreeCodeCamp](https://www.freecodecamp.org/learn).
